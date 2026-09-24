@@ -1,5 +1,5 @@
 public class Iteration3and4 {
-    
+
     static String name = "Chad";
     static double healthPoints = 85;
     static double maxHealth = 100;
@@ -144,4 +144,5 @@ public class Iteration3and4 {
         hero.printCharacterSheet();
         enemy.printCharacterSheet();
     }
+
 }
